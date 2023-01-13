@@ -1,7 +1,6 @@
 # APP OVERVIEW
 This is a full stack application that displays and creates time sheet data for a fictional company. The app is comprised of a React front-end that uses
-npm as the package manager, and a Spring Boot back-end that uses Maven as the package manager. The data is stored and persisted across runs of the app
-across uses via a MySQL database.
+npm as the package manager, and a Spring Boot back-end that uses Maven as the package manager. The data is stored and persisted across runs of the app via a MySQL database.
 
 # DEPENDENCIES
 The application, which was built on MacOS 12.1.1, relies on various technologies, so please ensure the following are installed on your machine prior to
@@ -16,7 +15,7 @@ running the code:
 7. VS CODE 1.6 (or higher)
 
 # RUN INSTRUCTIONS
-The app is coomprised of three microservices: The database filler, the backend, and the front-end, and the back-end. To ensure the app works properly, 
+The app is comprised of three microservices: The database filler, the front-end, and the back-end. To ensure the app works properly, 
 please run them sequentially as outlined below.
 
 ## Database Filler
